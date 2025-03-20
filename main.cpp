@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    int nose = 69;
     int numero_chistoso = 11;
     cout<<"probando el github nomas."<< endl;
 
